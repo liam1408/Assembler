@@ -9,8 +9,7 @@
 
 #define MAX_LINE_LENGTH 250
 #define INT_ARR_SIZE 14
-/* project of Len lex id: 319044517
-   and liam meshulam id: 318737079 
+/* liam meshulam id: 318737079 
   */
 /*
 this project is an assembler. the assembler has 3 stages:
